@@ -1,4 +1,4 @@
-let number = 0;
+let number = 7;
 let count = document.querySelector(".count")
 let min = document.querySelector(".subtract")
 let max = document.querySelector(".add")
